@@ -6,11 +6,11 @@ Complete manual testing project for e-commerce website including test cases, bug
 
 
 
-\# E-commerce Website Manual Testing Project
+# E-commerce Website Manual Testing Project
 
 
 
-\## Project Overview
+## Project Overview
 
 This repository contains a complete manual testing project for an e-commerce website.
 
@@ -18,61 +18,61 @@ This repository contains a complete manual testing project for an e-commerce web
 
 The project includes:
 
-\- Test Plan
+- Test Plan
 
-\- Test Cases
+- Test Cases
 
-\- Bug Reports
+- Bug Reports
 
-\- Requirement Traceability Matrix (RTM)
+- Requirement Traceability Matrix (RTM)
 
-\- Screenshots
-
-
-
-\## Modules Tested
-
-\- Login
-
-\- Registration
-
-\- Search
-
-\- Add to Cart
-
-\- Checkout
-
-\- Payment
+- Screenshots
 
 
 
-\## Testing Types Performed
+## Modules Tested
 
-\- Functional Testing
+- Login
 
-\- Regression Testing
+- Registration
 
-\- Smoke Testing
+- Search
 
-\- UI Testing
+- Add to Cart
 
-\- Usability Testing
+- Checkout
 
-
-
-\## Tools Used
-
-\- Microsoft Excel
-
-\- Microsoft Word
-
-\- Jira (Demo)
-
-\- Google Chrome
+- Payment
 
 
 
-\## Author
+## Testing Types Performed
+
+- Functional Testing
+
+- Regression Testing
+
+- Smoke Testing
+
+- UI Testing
+
+- Usability Testing
+
+
+
+## Tools Used
+
+- Microsoft Excel
+
+- Microsoft Word
+
+- Jira (Demo)
+
+- Google Chrome
+
+
+
+## Author
 
 Subhadarshi sahu
 
