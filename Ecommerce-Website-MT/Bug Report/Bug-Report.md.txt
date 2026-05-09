@@ -1,0 +1,24 @@
+# BUG REPORTS
+
+| Bug ID | Title | Severity | Priority | Status |
+|--------|--------|----------|----------|--------|
+| BUG_001 | Login button not working on first click | High | High | Open |
+| BUG_002 | Incorrect error message for invalid password | Medium | Medium | Open |
+| BUG_003 | Cart total calculation incorrect | High | High | Open |
+| BUG_004 | Search results not loading properly | Medium | Medium | Open |
+| BUG_005 | Payment page takes too much time to load | Low | Medium | Open |
+
+---
+
+## Bug Details
+
+### BUG_001
+- Module: Login
+- Steps:
+  1. Enter username
+  2. Enter password
+  3. Click login button
+- Expected Result:
+  User should login successfully.
+- Actual Result:
+  Login button does not respond on first click.
