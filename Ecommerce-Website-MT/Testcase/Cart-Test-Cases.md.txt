@@ -1,9 +1,0 @@
-# CART TEST CASES
-
-| TC_ID | Test Scenario | Test Steps | Expected Result | Status |
-|------|----------------|-------------|-----------------|--------|
-| TC_006 | Add product to cart | Click Add to Cart | Product should add successfully | Pass |
-| TC_007 | Remove product from cart | Click Remove button | Product should remove | Pass |
-| TC_008 | Verify cart total | Add multiple items | Total price should calculate correctly | Pass |
-| TC_009 | Verify quantity update | Increase quantity | Cart quantity should update | Pass |
-| TC_010 | Verify empty cart | Remove all products | Cart should display empty message | Pass |
